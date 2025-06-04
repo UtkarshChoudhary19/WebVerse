@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /assets
+Disallow: /assets/css
+Disallow: /assets/img
+Disallow: /assets/js
+Disallow: /assets/vendor
+Disallow: /assets/vids
+Allow: /index.html
+Allow: /contact.html
+Allow: /portfolio.html
+Allow: /about.html
+
+
+
